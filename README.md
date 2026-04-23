@@ -21,10 +21,10 @@ Therefore, the following usage restrictions from the MVG Imprint do apply to all
 ![Widget example](screenshots/widget.jpg)
 
 ### Live Board (Full Screen)
-![Live board example](screenshots/live-board.png)
+![Live board example](screenshots/live-board.PNG)
 
 ### Settings
-![Settings page example](screenshots/settings.png)
+![Settings page example](screenshots/settings.PNG)
 
 ## Files
 
