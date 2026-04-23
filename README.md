@@ -18,13 +18,13 @@ Therefore, the following usage restrictions from the MVG Imprint do apply to all
 ## Screenshots
 
 ### Widget (Home Screen)
-![Widget example](screenshots/widget.jpg)
+<img src="screenshots/widget.jpg" alt="Widget example" width="600" />
 
 ### Live Board (Full Screen)
-![Live board example](screenshots/live-board.PNG)
+<img src="screenshots/live-board.PNG" alt="Live board example" width="320" />
 
 ### Settings
-![Settings page example](screenshots/settings.PNG)
+<img src="screenshots/settings.PNG" alt="Settings page example" width="320" />
 
 ## Files
 
